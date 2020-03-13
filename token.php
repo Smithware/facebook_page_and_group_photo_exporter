@@ -1,4 +1,4 @@
-<?
+<?php
 if (isset($_SESSION['token']))
 	$token = $_SESSION['token'];
 else
